@@ -24,7 +24,7 @@ metadata:
   name: rest-villains-config-creds
 data:
   quarkus.datasource.username: c3VwZXJiYWQ=
-  quarkus.datasource.password: c3VwZXJiYWQ=
+  quarkus.datasource.password: c3VwZXJiYW=
 type: Opaque
 ---
 apiVersion: v1
